@@ -1,5 +1,4 @@
 
 
-echo "camnbio main"; 
 
 echo "camnbio main"; 
